@@ -1,0 +1,9 @@
+[
+    {"roll_min": 1, "roll_max": 16, "contents": "empty"},
+    {"roll_min": 17, "roll_max": 20, "contents": "unguarded treasure"},
+    {"roll_min": 21, "roll_max": 60, "contents": "monster"},
+    {"roll_min": 61, "roll_max": 84, "contents": "monster with treasure"},
+    {"roll_min": 85, "roll_max": 88, "contents": "special"},
+    {"roll_min": 89, "roll_max": 96, "contents": "trap"},
+    {"roll_min": 97, "roll_max": 100, "contents": "trap with treasure"}
+]
