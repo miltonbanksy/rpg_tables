@@ -1,0 +1,8 @@
+[
+    {"rollx": 1, "action": "strengthen / mend", "focus": "weapon(s) / tool(s) / item(s)"},
+    {"rollx": 1, "action": "weaken / damage", "focus": "mind / senses"},
+    {"rollx": 1, "action": "transform / transport", "focus": "elements"},
+    {"rollx": 1, "action": "learn / detect", "focus": "animal(s) / plant(s)"},
+    {"rollx": 1, "action": "summon / create", "focus": "food / medicine"},
+    {"rollx": 1, "action": "choose any action", "focus": "choose any focus"}
+]
