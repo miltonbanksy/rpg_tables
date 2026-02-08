@@ -1,8 +1,8 @@
 [
-    {"difficulty": "auto", "likelihood": "Certain", "chance": "100%", "roll": 1},
-    {"difficulty": "Very Hard", "likelihood": "Very Likely", "chance": "83.33%", "roll": 2},
-    {"difficulty": "Hard", "likelihood": "Likely", "chance": "66.67%", "roll": 3},
-    {"difficulty": "Moderate", "likelihood": "", "chance": "50%", "roll": 4},
-    {"difficulty": "Easy", "likelihood": "Unlikely", "chance": "33.33%", "roll": 5},
-    {"difficulty": "Very Easy", "likelihood": "Very Unlikely", "chance": "16.67%", "roll": 6}
+    {"difficulty": "Auto", "likelihood": "Certain", "chance": "100%", "description": "No roll needed.", "roll": 1},
+    {"difficulty": "Very Hard", "likelihood": "Very Likely", "chance": "83.33%", "description": "Roll 2 or more.", "roll": 2},
+    {"difficulty": "Hard", "likelihood": "Likely", "chance": "66.67%", "description": "Roll 3 or more.", "roll": 3},
+    {"difficulty": "Moderate", "likelihood": "50-50", "chance": "50%", "description": "Roll 4 or more.", "roll": 4},
+    {"difficulty": "Easy", "likelihood": "Unlikely", "chance": "33.33%", "description": "Roll 5 or more.", "roll": 5},
+    {"difficulty": "Very Easy", "likelihood": "Very Unlikely", "chance": "16.67%", "description": "Roll a 6 exactly.", "roll": 6}
 ]
