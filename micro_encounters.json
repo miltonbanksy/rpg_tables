@@ -1,8 +1,8 @@
 [
     {"roll": 1, "result": "Immediate - Hostile"},
-    {"roll": 2, "result": "Approaching / Ahead - Danger / Hazard / Active Threat."},
-    {"roll": 3, "result": "Immediate or Ahead - Obstacle / Barrier / Puzzle / Setback."},
-    {"roll": 4, "result": "Immediate or Ahead - Neutral Entity or Location / Feature / Point of Interest."},
-    {"roll": 5, "result": "Information / Clue / Trail, News, or potential opportunity."},
-    {"roll": 6, "result": "Useful Person / Location / Thing, Advantage / Fortune"}
+    {"roll": 2, "result": "Looming - Danger / Hazard / Active Threat."},
+    {"roll": 3, "result": "Complication - Obstacle / Barrier / Puzzle / Setback."},
+    {"roll": 4, "result": "Neutral - Entity / Location / Object / Feature"},
+    {"roll": 5, "result": "Information / Clue / Trail, News, or Potential Opportunity."},
+    {"roll": 6, "result": "Advantage / Fortune - Entity / Location / Object / Feature"}
 ]
