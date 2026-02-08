@@ -1,0 +1,8 @@
+[
+    {"difficulty": "auto", "likelihood": "Certain", "chance": "100%", "roll": 1},
+    {"difficulty": "Very Hard", "likelihood": "Very Likely", "chance": "83.33%", "roll": 2},
+    {"difficulty": "Hard", "likelihood": "Likely", "chance": "66.67%", "roll": 3},
+    {"difficulty": "Moderate", "likelihood": "", "chance": "50%", "roll": 4},
+    {"difficulty": "Easy", "likelihood": "Unlikely", "chance": "33.33%", "roll": 5},
+    {"difficulty": "Very Easy", "likelihood": "Very Unlikely", "chance": "16.67%", "roll": 6}
+]
