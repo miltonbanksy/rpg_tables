@@ -1,8 +1,8 @@
 [
-    {"roll": 1, "result": "Hostile, typically an immediate attack by a hostile encounter"},
-    {"roll": 2, "result": "Danger, a dangerous or potentially hazardous encounter; can mean an active physical threat (storm, flood, trap, etc.)"},
-    {"roll": 3, "result": "Obstacle, a barrier to progress, which could be locked gates, guards, security systems, etc."},
-    {"roll": 4, "result": "Neutral feature/observation, a point of interest, not immediately dangerous, such as a landscape feature"},
-    {"roll": 5, "result": "Information, a potential lead, or opportunity (clue, track, hint, informant)"},
-    {"roll": 6, "result": "Useful, a discovery, meeting, or useful resource"}
+    {"roll": 1, "result": "Immediate - Hostile"},
+    {"roll": 2, "result": "Approaching / Ahead - Danger / Hazard / Active Threat."},
+    {"roll": 3, "result": "Immediate or Ahead - Obstacle / Barrier / Puzzle / Setback."},
+    {"roll": 4, "result": "Immediate or Ahead - Neutral Entity or Location / Feature / Point of Interest."},
+    {"roll": 5, "result": "Information / Clue / Trail, News, or potential opportunity."},
+    {"roll": 6, "result": "Useful person or thing, advantage, or fortunate situation."}
 ]
