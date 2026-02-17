@@ -1,0 +1,8 @@
+[
+    {"roll": 1, "result": "Actor (Person, Creature, etc.)"},
+    {"roll": 2, "result": "Actor (Person, Creature, etc.)"},
+    {"roll": 3, "result": "Scenery (Location, Environment, Terrain, Atmosphere, etc."},
+    {"roll": 4, "result": "Scenery (Location, Environment, Terrain, Atmosphere, etc."},
+    {"roll": 5, "result": "Prop (Gear, Construction, Object, etc.)"},
+    {"roll": 6, "result": "Prop (Gear, Construction, Object, etc.)"}
+]

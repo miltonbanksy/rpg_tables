@@ -1,0 +1,8 @@
+[
+    {"roll": 1, "result": "Desperate"},
+    {"roll": 2, "result": "Desperate"},
+    {"roll": 3, "result": "Risky"},
+    {"roll": 4, "result": "Risky"},
+    {"roll": 5, "result": "Controlled"},
+    {"roll": 6, "result": "Controlled"}
+]
