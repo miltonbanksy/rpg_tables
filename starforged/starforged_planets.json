@@ -1,0 +1,15 @@
+[
+    {
+        "min": 1,
+        "max": 15, 
+        "world_type": "Desert World",
+        "atmos": [
+            { "min": 1, "max": 10, "atmos_type": "None / Thin" },
+            { "min": 11, "max": 25, "atmos_type": "Toxic" },
+            { "min": 26, "max": 40, "atmos_type": "Corrosive" },
+            { "min": 41, "max": 70, "atmos_type": "Marginal" },
+            { "min": 71, "max": 95, "atmos_type": "Breathable" },
+            { "min": 96, "max": 100, "atmos_type": "Ideal" }
+        ]
+    }
+]
