@@ -1,0 +1,8 @@
+[
+    {"number": 2, "card": "Five of Hearts", "symbol": "Moon", "description": "The moon, when near, is a good omen; it predicts fortune. When distant, in exposure of your secrets."},
+    {"number": 17, "card": "Four of Hearts", "symbol": "Fish", "description": "The fish is the emblem of riches through stocks; but if distant, it fortells failure and disaster."},
+    {"number": 37, "card": "Ace of Spades", "symbol": "Rapiers", "description": "The rapiers warn us against assaults which threaten and will occur sooner or later, according to the distance from the person."},
+    {"number": 43, "card": "Six of Clubs", "symbol": "Lightning", "description": "Lightning denotes surprise, dissagreeable in accordance to distance."},
+    {"number": 44, "card": "Eight of Diamonds", "symbol": "Broken Glass", "description": "The broken glass fortells ill lick for long years if near; but if distant, death of a friend."},
+    {"number": 48, "card": "Three of Diamonds", "symbol": "Money Safe", "description": "The money safe indicates riches; if shut side is toward the person, it denotes loss by speculation."}
+]
