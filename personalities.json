@@ -1,0 +1,162 @@
+{
+    "INTJ-A/T": 
+    {
+        "cat": "Analyst", 
+        "subcat":"Architect",
+        "code_meaning": "Introverted Intuitive Thinking Judging",
+        "sum": "Imaginative and strategic thinker, with a plan for everything.",
+        "aspects": "Pioneering Spirit, Thirst for Knowledge, Social Frustrations, The Chess Game of Life",
+        "strengths": "Rational, Informed, Independent, Determined, Curious, Original",
+        "weaknesses": "Arrogant, Dissmissive of Emotions, Overly Critical, Combative, Socially Clueless"
+    },
+    "INTP-A/T": 
+    {
+        "cat": "Analyst", 
+        "subcat":"Logician",
+        "code_meaning": "Introverted Intuitive Thinking Prospecting",
+        "sum": "Innovative inventor with an unquenchable thirst for knowledge.",
+        "aspects": "The Life of the Mind, Elementary, My Dear Logician, Mysteries of the Universe",
+        "strengths": "Analytical, Original, Open-Minded, Curious, Honest",
+        "weaknesses": "Disconnected, Insensitive, Dissatisfied, Overthinker, Impatient"
+    },
+    "ENTJ-A/T": 
+    {
+        "cat": "Analyst", 
+        "subcat":"Commander",
+        "code_meaning": "Extroverted Intuitive Thinking Judging",
+        "sum": "Bold, imaginative and strong-willed leader, always finding a way – or making one.",
+        "aspects": "Striving for Greatness, Give Me a Worthy Challenge",
+        "strengths": "Efficient, Energetic, Self-Confident, Strong-Willed, Strategic Thinker, Charismatic, Inspiring",
+        "weaknesses": "Stubborn, Dominant, Intolerant, Impatient, Arrogant, Poor Handling of Emotions"
+    },
+    "ENTP-A/T": 
+    {
+        "cat": "Analyst", 
+        "subcat":"Debater",
+        "code_meaning": "Extroverted Intuitive Thinking Prospecting",
+        "sum": "Smart and curious thinker who cannot resist an intellectual challenge.",
+        "aspects": "Breaking the Rules, 'On the Contrary...'",
+        "strengths": "Knowledgeable, Quick Thinker, Original, Excellent Brainstormer, Charismatic, Energetic",
+        "weaknesses": "Very Argumentative, Insensitive, Intolerant, Difficulty Focusing, Dislike Practical Matters"
+    },
+    "INFJ-A/T": 
+    {
+        "cat": "Diplomat", 
+        "subcat":"Advocate",
+        "code_meaning": "Introverted Intuitive Feeling Judging",
+        "sum": "Quiet and mystical, yet very inspiring and tireless idealist.",
+        "aspects": "Seeking Purpose, Connecting with Others, A personal Mission",
+        "strengths": "Insightful, Principled, Passionate, Altruistic, Creative",
+        "weaknesses": "Sensitive to Criticism, Reluctant to Open Up, Perfectionist, Avoiding the Ordinary, Prone to Burnout"
+    },  
+    "INFP-A/T": 
+    {
+        "cat": "Diplomat", 
+        "subcat":"Mediator",
+        "code_meaning": "Introverted Intuitive Feeling Prospecting",
+        "sum": "Poetic, kind and altruistic person, always eager to help a good cause.",
+        "aspects": "The Gift of Empathy, Speak My Truth, In Search of a Calling",
+        "strengths": "Empathetic, Generous, Open-Minded, Creative, Passionate, Idealistic",
+        "weaknesses": "Unrealistic, Self-Isolating, Unfocused, Emotionally Vulnerable, To Eager to Please, Self-Critical"
+    },  
+    "ENFJ-A/T": 
+    {
+        "cat": "Diplomat", 
+        "subcat":"Protagonist",
+        "code_meaning": "Extroverted Intuitive Feeling Judging",
+        "sum": "Charismatic and inspiring leader, able to mesmerize their listeners.",
+        "aspects": "Speaking Up for What's Right, Getting Involved, Leading the Way",
+        "strengths": "Receptive, Reliable, Passionate, Altruistic, Charismatic",
+        "weaknesses": "Unrealistic, Overly Idealistic, Condescending, Intense, Overly Empathetic"
+    },  
+    "ENFP-A/T": 
+    {
+        "cat": "Diplomat", 
+        "subcat":"Campaigner",
+        "code_meaning": "Extroverted Intuitive Feeling Prospecting",
+        "sum": "Enthusiastic, creative and sociable free spirit, who can always find a reason to smile.",
+        "aspects": "The Magic of Everyday Life, Seeking Joy, Infectious Enthusiasm",
+        "strengths": "Curious, Perceptive, Enthusiastic, Excellent Communicator, Easygoing, Good-Natured, Positive",
+        "weaknesses": "People Pleasing, Unfocused, Disorganized, Overly Accommodating, Overly Optimisic, Restless"
+    },  
+    "ISTJ-A/T": 
+    {
+        "cat": "Sentinel", 
+        "subcat":"Logistician",
+        "code_meaning": "Introverted Observant Thinking Judging",
+        "sum": "Practical and fact-minded individual, whose reliability cannot be doubted.",
+        "aspects": "A Life of Integrity, Picking up the Slack",
+        "strengths": "Honest, Direct, Disciplined, Very Responsible, Calm, Practical, Organized, Effective, Research-Oriented",
+        "weaknesses": "Stubborn, Insensitive, Always by the Book, Judgemental, Prone to Burnout"
+    },  
+    "ISFJ-A/T": 
+    {
+        "cat": "Sentinel", 
+        "subcat":"Defender",
+        "code_meaning": "Introverted Observant Feeling Judging",
+        "sum": "Very dedicated and warm protector, always ready to defend their loved ones.",
+        "aspects": "The Gift of Loyalty, The Highest of Standards, Showing Up for Others - And Themselves",
+        "strengths": "Supportive, Reliable, Observant, Enthusiastic, Hardworking, Good Practical Skills",
+        "weaknesses": "Overly Humble, Take Things Personally, Repressed Feelings, Reluctant to Change, Too Altruistic"
+    },  
+    "ESTJ-A/T": 
+    {
+        "cat": "Sentinel", 
+        "subcat":"Executive",
+        "code_meaning": "Extroverted Observant Thinking Judging",
+        "sum": "Excellent administrator, unsurpassed at managing things – or people.",
+        "aspects": "Lead by Example, Great Responsibility",
+        "strengths": "Dedicated, Strong-Willed, Direct, Honest, Loyal, Patient, Reliable, Enjoy Creating Order, Excellent Organizer",
+        "weaknesses": "Inflexible, Stubborn, Uncomfortable with Change, Judgemental, Too Focused on Social Status, Difficulty Relaxing, Difficulty Expressing Emotion"
+    },  
+    "ESFJ-A/T": 
+    {
+        "cat": "Sentinel", 
+        "subcat":"Consul",
+        "code_meaning": "Extroverted Observant Feeling Judging",
+        "sum": "Extraordinarily caring, social and popular person, always eager to help.",
+        "aspects": "Clear Moral Compass, The Beauty of a Responsible Life, Building Relationships that Last",
+        "strengths": "Strong Practical Skills, Strong Sense of Duty, Very Loyal, Sensitive, Warm, Good at Connecting with Others",
+        "weaknesses": "Worried about their Social Status, Inflexible, Vulnerable to Criticism, Often too Needy, Too Selfless"
+    },  
+    "ISTP-A/T": 
+    {
+        "cat": "Explorer", 
+        "subcat":"Virtuoso",
+        "code_meaning": "Introverted Observant Thinking Prospecting",
+        "sum": "",
+        "aspects": "",
+        "strengths": "",
+        "weaknesses": ""
+    },  
+    "ISFP-A/T": 
+    {
+        "cat": "Explorer", 
+        "subcat":"Adventurer",
+        "code_meaning": "Introverted Observant Feeling Prospecting",
+        "sum": "",
+        "aspects": "",
+        "strengths": "",
+        "weaknesses": ""
+    },  
+    "ESTP-A/T": 
+    {
+        "cat": "Explorer", 
+        "subcat":"Entrepreneur",
+        "code_meaning": "Extroverted Observant Thinking Prospecting",
+        "sum": "",
+        "aspects": "",
+        "strengths": "",
+        "weaknesses": ""
+    },  
+    "ESFP-A/T": 
+    {
+        "cat": "Explorer", 
+        "subcat":"Entertainer",
+        "code_meaning": "Extroverted Observant Feeling Prospecting",
+        "sum": "",
+        "aspects": "",
+        "strengths": "",
+        "weaknesses": ""
+    }
+}
