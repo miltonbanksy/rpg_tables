@@ -15,7 +15,7 @@
         "subcat":"Logician",
         "code_meaning": "Introverted Intuitive Thinking Prospecting",
         "sum": "Innovative inventor with an unquenchable thirst for knowledge.",
-        "aspects": "The Life of the Mind, Elementary, My Dear Logician, Mysteries of the Universe",
+        "aspects": "Don't Stop Questioning, The Life of the Mind, Elementary, My Dear Logician, Mysteries of the Universe",
         "strengths": "Analytical, Original, Open-Minded, Curious, Honest",
         "weaknesses": "Disconnected, Insensitive, Dissatisfied, Overthinker, Impatient"
     },
@@ -124,39 +124,39 @@
         "cat": "Explorer", 
         "subcat":"Virtuoso",
         "code_meaning": "Introverted Observant Thinking Prospecting",
-        "sum": "",
-        "aspects": "",
-        "strengths": "",
-        "weaknesses": ""
+        "sum": "Bold and practical experimenter, master of all kinds of tools.",
+        "aspects": "Direct & Decisive, Defying the Rules",
+        "strengths": "Diligent, Observant, Handy, Resourceful, Spontaneous, Direct, Authentic, Independent, Grounded",
+        "weaknesses": "Unapologetic, Insensitive, Private, Reserved, Easily Bored, Independent, Overly Skeptical"
     },  
     "ISFP-A/T": 
     {
         "cat": "Explorer", 
         "subcat":"Adventurer",
         "code_meaning": "Introverted Observant Feeling Prospecting",
-        "sum": "",
-        "aspects": "",
-        "strengths": "",
-        "weaknesses": ""
+        "sum": "Flexible and charming artist, always ready to explore and experience something new.",
+        "aspects": "The Beauty of an Open Mind, Living in Harmony",
+        "strengths": "Charming, Sensitive to Others, Kind, Encouraging, Imaginative, Passionate",
+        "weaknesses": "Difficulty with Structure, Unpredictable, Easily Stressed, Difficulty with Technical Problem-Solving, Fluctuating Self-Esteem"
     },  
     "ESTP-A/T": 
     {
         "cat": "Explorer", 
         "subcat":"Entrepreneur",
         "code_meaning": "Extroverted Observant Thinking Prospecting",
-        "sum": "",
-        "aspects": "",
-        "strengths": "",
-        "weaknesses": ""
+        "sum": "Smart, energetic and very perceptive person, who truly enjoys living on the edge.",
+        "aspects": "Daring Adventure or Nothing At All, Diving Right In, The Path Less Traveled",
+        "strengths": "Bold, Rational, Practical, Original, Perceptive, Direct, Sociable",
+        "weaknesses": "Insensitive, Impatient, Impulsive, Unstructured, May Miss the Bigger Picture, Defiant"
     },  
     "ESFP-A/T": 
     {
         "cat": "Explorer", 
         "subcat":"Entertainer",
         "code_meaning": "Extroverted Observant Feeling Prospecting",
-        "sum": "",
-        "aspects": "",
-        "strengths": "",
-        "weaknesses": ""
+        "sum": "Spontaneous, energetic and enthusiastic person – life is never boring around them.",
+        "aspects": "Love for each Second Without Hesitation, Live With Passion, A Spontaneous Spirit",
+        "strengths": "Bold, Original, Positive, Enthusiastic, Hands-On, Observant, Excellent People Skills",
+        "weaknesses": "Sensitive, Conflict Averse, Easily Bored, Poor Long-Term Planners, Unfocused"
     }
 }
